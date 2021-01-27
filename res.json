@@ -1,0 +1,926 @@
+[
+    {
+        "name": "Trimestre 1",
+        "subjects": [
+            {
+                "name": "ANGLAIS LV1 > Compréhension écrite",
+                "numberTests": 2,
+                "averageSelf": 19.17,
+                "averageClass": 16.94,
+                "averageMax": 20,
+                "averageMin": 11.67,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-23T11:00:00.000Z",
+                        "gradeClass": 3,
+                        "gradeMax": 4,
+                        "gradeMaxValue": 4,
+                        "gradeMin": 2,
+                        "gradeSelf": 3,
+                        "name": "CLASS ACOMPAGNEE HIP HOP"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-23T11:00:00.000Z",
+                        "gradeClass": 1,
+                        "gradeMax": 2,
+                        "gradeMaxValue": 2,
+                        "gradeMin": 0,
+                        "gradeSelf": 2,
+                        "name": "CE RAP"
+                    }
+                ]
+            },
+            {
+                "name": "ANGLAIS LV1 > Compréhension orale",
+                "numberTests": 1,
+                "averageSelf": 20,
+                "averageClass": 18.15,
+                "averageMax": 20,
+                "averageMin": 10,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-29T11:00:00.000Z",
+                        "gradeClass": 1,
+                        "gradeMax": 2,
+                        "gradeMaxValue": 2,
+                        "gradeMin": 1,
+                        "gradeSelf": 2,
+                        "name": "classe accompagnée"
+                    }
+                ]
+            },
+            {
+                "name": "ANGLAIS LV1 > Expression écrite",
+                "numberTests": 6,
+                "averageSelf": 17.25,
+                "averageClass": 13.98,
+                "averageMax": 19.34,
+                "averageMin": 7.47,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-23T11:00:00.000Z",
+                        "gradeClass": 2,
+                        "gradeMax": 4,
+                        "gradeMaxValue": 4,
+                        "gradeMin": 1,
+                        "gradeSelf": 3,
+                        "name": "CLASSE ACCOMPAGN2E HIP HOP SYNTHESE"
+                    },
+                    {
+                        "coefficient": 0.5,
+                        "date": "2020-11-23T11:00:00.000Z",
+                        "gradeClass": 4,
+                        "gradeMax": 5,
+                        "gradeMaxValue": 5,
+                        "gradeMin": 1,
+                        "gradeSelf": 5,
+                        "name": "QUESTIONS qcm"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-23T11:00:00.000Z",
+                        "gradeClass": 3,
+                        "gradeMax": 4,
+                        "gradeMaxValue": 4,
+                        "gradeMin": 2,
+                        "gradeSelf": 4,
+                        "name": "CLASSE ACCOMPAGNEE SYNTHESE RAP"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-14T10:00:00.000Z",
+                        "gradeClass": 8,
+                        "gradeMax": 15,
+                        "gradeMaxValue": 15,
+                        "gradeMin": 0,
+                        "gradeSelf": 14,
+                        "name": "GRAMMAIRE VIA 1957"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-09-27T10:00:00.000Z",
+                        "gradeClass": 7,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 3,
+                        "gradeSelf": 9,
+                        "name": "get to know your teacher"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-09-14T10:00:00.000Z",
+                        "gradeClass": 7,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 4,
+                        "gradeSelf": 6,
+                        "name": "back to school cartoon"
+                    }
+                ]
+            },
+            {
+                "name": "ANGLAIS LV1 > Expression orale",
+                "numberTests": 3,
+                "averageSelf": 18.33,
+                "averageClass": 14.45,
+                "averageMax": 20,
+                "averageMin": 6.5,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-23T11:00:00.000Z",
+                        "gradeClass": 6,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 0,
+                        "gradeSelf": 10,
+                        "name": null
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-23T11:00:00.000Z",
+                        "gradeClass": 7,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 1,
+                        "gradeSelf": 10,
+                        "name": "poi rituel"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-23T11:00:00.000Z",
+                        "gradeClass": 7,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 4,
+                        "gradeSelf": 7,
+                        "name": "TÄCHE FINALE"
+                    }
+                ]
+            },
+            {
+                "name": "ARTS PLASTIQUES",
+                "numberTests": 2,
+                "averageSelf": 14,
+                "averageClass": 16.89,
+                "averageMax": 20,
+                "averageMin": 13.14,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-25T11:00:00.000Z",
+                        "gradeClass": 12,
+                        "gradeMax": 15,
+                        "gradeMaxValue": 15,
+                        "gradeMin": 8,
+                        "gradeSelf": 8,
+                        "name": null
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-25T11:00:00.000Z",
+                        "gradeClass": 16,
+                        "gradeMax": 20,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 12,
+                        "gradeSelf": 16,
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "name": "CHINOIS LV2 > Compréhension écrite",
+                "numberTests": 1,
+                "averageSelf": 14,
+                "averageClass": 15.88,
+                "averageMax": 20,
+                "averageMin": 10,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-19T11:00:00.000Z",
+                        "gradeClass": 7,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 5,
+                        "gradeSelf": 7,
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "name": "CHINOIS LV2 > Compréhension orale",
+                "numberTests": 1,
+                "averageSelf": 18,
+                "averageClass": 15.5,
+                "averageMax": 19,
+                "averageMin": 3,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-05T11:00:00.000Z",
+                        "gradeClass": 7,
+                        "gradeMax": 9,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 1,
+                        "gradeSelf": 9,
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "name": "CHINOIS LV2 > Expression écrite",
+                "numberTests": 2,
+                "averageSelf": 20,
+                "averageClass": 15.84,
+                "averageMax": 20,
+                "averageMin": 7,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-15T10:00:00.000Z",
+                        "gradeClass": 8,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 0,
+                        "gradeSelf": 10,
+                        "name": null
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-14T10:00:00.000Z",
+                        "gradeClass": 7,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 0,
+                        "gradeSelf": 10,
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "name": "CHINOIS LV2 > Expression orale",
+                "numberTests": 1,
+                "averageSelf": 14,
+                "averageClass": 12.27,
+                "averageMax": 20,
+                "averageMin": 0,
+                "tests": [
+                    {
+                        "coefficient": 2,
+                        "date": "2020-11-26T11:00:00.000Z",
+                        "gradeClass": 6,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 0,
+                        "gradeSelf": 7,
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "name": "ED.PHYSIQUE & SPORT.",
+                "numberTests": 1,
+                "averageSelf": 14.5,
+                "averageClass": 14.41,
+                "averageMax": 18.5,
+                "averageMin": 9.5,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-12T10:00:00.000Z",
+                        "gradeClass": 14,
+                        "gradeMax": 18,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 9,
+                        "gradeSelf": 14,
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "name": "EDUCATION MUSICALE",
+                "numberTests": 3,
+                "averageSelf": 16,
+                "averageClass": 16.02,
+                "averageMax": 19.13,
+                "averageMin": 10.54,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-16T11:00:00.000Z",
+                        "gradeClass": 13,
+                        "gradeMax": 17,
+                        "gradeMaxValue": 17,
+                        "gradeMin": 7,
+                        "gradeSelf": 15,
+                        "name": null
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-31T11:00:00.000Z",
+                        "gradeClass": 15,
+                        "gradeMax": 20,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 10,
+                        "gradeSelf": 14,
+                        "name": "EcritN°1"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-31T11:00:00.000Z",
+                        "gradeClass": 2,
+                        "gradeMax": 3,
+                        "gradeMaxValue": 3,
+                        "gradeMin": 2,
+                        "gradeSelf": 3,
+                        "name": "Participation"
+                    }
+                ]
+            },
+            {
+                "name": "FRANCAIS > FRANCAIS",
+                "numberTests": 7,
+                "averageSelf": 14.39,
+                "averageClass": 14.37,
+                "averageMax": 19.17,
+                "averageMin": 8.46,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-30T11:00:00.000Z",
+                        "gradeClass": 10,
+                        "gradeMax": 12,
+                        "gradeMaxValue": 12,
+                        "gradeMin": 4,
+                        "gradeSelf": 6,
+                        "name": "contrôle de lecture"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-29T11:00:00.000Z",
+                        "gradeClass": 5,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 0,
+                        "gradeSelf": 3,
+                        "name": "dictée 2"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-23T11:00:00.000Z",
+                        "gradeClass": 7,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 2,
+                        "gradeSelf": 9,
+                        "name": "test partie 1 à 3 ch2"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-19T10:00:00.000Z",
+                        "gradeClass": 7,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 2,
+                        "gradeSelf": 8,
+                        "name": "dictée 1"
+                    },
+                    {
+                        "coefficient": 2,
+                        "date": "2020-10-16T10:00:00.000Z",
+                        "gradeClass": 15,
+                        "gradeMax": 20,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 8,
+                        "gradeSelf": 14,
+                        "name": "rédaction 1"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-08T10:00:00.000Z",
+                        "gradeClass": 23,
+                        "gradeMax": 34,
+                        "gradeMaxValue": 35,
+                        "gradeMin": 4,
+                        "gradeSelf": 27,
+                        "name": "test de la partie 3 et 4"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-09-17T10:00:00.000Z",
+                        "gradeClass": 11,
+                        "gradeMax": 15,
+                        "gradeMaxValue": 15,
+                        "gradeMin": 1,
+                        "gradeSelf": 12,
+                        "name": "test 1 autobiographie"
+                    }
+                ]
+            },
+            {
+                "name": "HIST GEO EDUC MOR CIV",
+                "numberTests": 4,
+                "averageSelf": 16.31,
+                "averageClass": 14.36,
+                "averageMax": 17.69,
+                "averageMin": 8.31,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-23T11:00:00.000Z",
+                        "gradeClass": 14,
+                        "gradeMax": 19,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 7,
+                        "gradeSelf": 17,
+                        "name": "Les exprériences totalitaires"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-02T11:00:00.000Z",
+                        "gradeClass": 15,
+                        "gradeMax": 20,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 9,
+                        "gradeSelf": 19,
+                        "name": "Les aires urbaines"
+                    },
+                    {
+                        "coefficient": 0.5,
+                        "date": "2020-10-08T10:00:00.000Z",
+                        "gradeClass": 9,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 7,
+                        "gradeSelf": 10,
+                        "name": null
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-04T10:00:00.000Z",
+                        "gradeClass": 11,
+                        "gradeMax": 16,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 3,
+                        "gradeSelf": 11,
+                        "name": "Civils et militaires (Grande guerre)"
+                    }
+                ]
+            },
+            {
+                "name": "LANGUES CULTURES ETRANGERES > LANGUES CULTURES ETRANGERES",
+                "numberTests": 2,
+                "averageSelf": 20,
+                "averageClass": 16.15,
+                "averageMax": 20,
+                "averageMin": 8.67,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-30T11:00:00.000Z",
+                        "gradeClass": 3,
+                        "gradeMax": 5,
+                        "gradeMaxValue": 5,
+                        "gradeMin": 1,
+                        "gradeSelf": 5,
+                        "name": "youth for climate: écrite"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-12T10:00:00.000Z",
+                        "gradeClass": 8,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 4,
+                        "gradeSelf": 10,
+                        "name": "Youth for climate: LIRE"
+                    }
+                ]
+            },
+            {
+                "name": "MATHEMATIQUES",
+                "numberTests": 3,
+                "averageSelf": 19.78,
+                "averageClass": 13.71,
+                "averageMax": 19.78,
+                "averageMin": 2.88,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-23T11:00:00.000Z",
+                        "gradeClass": 4,
+                        "gradeMax": 6,
+                        "gradeMaxValue": 6,
+                        "gradeMin": 0,
+                        "gradeSelf": 6,
+                        "name": null
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-16T10:00:00.000Z",
+                        "gradeClass": 13,
+                        "gradeMax": 20,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 3,
+                        "gradeSelf": 20,
+                        "name": null
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-09-22T10:00:00.000Z",
+                        "gradeClass": 13,
+                        "gradeMax": 19,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 7,
+                        "gradeSelf": 19,
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "name": "PHYSIQUE-CHIMIE",
+                "numberTests": 3,
+                "averageSelf": 19,
+                "averageClass": 12.49,
+                "averageMax": 19,
+                "averageMin": 5,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-24T11:00:00.000Z",
+                        "gradeClass": 5,
+                        "gradeMax": 9,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 1,
+                        "gradeSelf": 9,
+                        "name": null
+                    },
+                    {
+                        "coefficient": 2,
+                        "date": "2020-11-11T11:00:00.000Z",
+                        "gradeClass": 12,
+                        "gradeMax": 19,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 5,
+                        "gradeSelf": null,
+                        "name": null
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-06T10:00:00.000Z",
+                        "gradeClass": 6,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 3,
+                        "gradeSelf": 10,
+                        "name": "astro/puissances de 10"
+                    }
+                ]
+            },
+            {
+                "name": "SCIENCES VIE & TERRE",
+                "numberTests": 3,
+                "averageSelf": 16.29,
+                "averageClass": 14.63,
+                "averageMax": 18.57,
+                "averageMin": 0,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-05T10:00:00.000Z",
+                        "gradeClass": 8,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 5,
+                        "gradeSelf": 7,
+                        "name": "connaissances"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-05T10:00:00.000Z",
+                        "gradeClass": 15,
+                        "gradeMax": 19,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 5,
+                        "gradeSelf": 17,
+                        "name": "Reflexion"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-09-26T10:00:00.000Z",
+                        "gradeClass": 3,
+                        "gradeMax": 5,
+                        "gradeMaxValue": 5,
+                        "gradeMin": 0,
+                        "gradeSelf": 4,
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "name": "TECHNOLOGIE",
+                "numberTests": 2,
+                "averageSelf": 20,
+                "averageClass": 13.77,
+                "averageMax": 20,
+                "averageMin": 5.67,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-20T11:00:00.000Z",
+                        "gradeClass": 9,
+                        "gradeMax": 15,
+                        "gradeMaxValue": 15,
+                        "gradeMin": 4,
+                        "gradeSelf": 15,
+                        "name": "Eval_P1"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-10-02T10:00:00.000Z",
+                        "gradeClass": 3,
+                        "gradeMax": 5,
+                        "gradeMaxValue": 5,
+                        "gradeMin": 2,
+                        "gradeSelf": 5,
+                        "name": "Si-Sinon"
+                    }
+                ]
+            }
+        ],
+        "averageSelf": 17.12,
+        "averageClass": 14.56
+    },
+    {
+        "name": "Trimestre 2",
+        "subjects": [
+            {
+                "name": "ANGLAIS LV1 > Expression écrite",
+                "numberTests": 2,
+                "averageSelf": 20,
+                "averageClass": 14.54,
+                "averageMax": 20,
+                "averageMin": 2.31,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2021-01-12T11:00:00.000Z",
+                        "gradeClass": 7,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 1,
+                        "gradeSelf": 10,
+                        "name": "verbes irréguliers"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-12-17T11:00:00.000Z",
+                        "gradeClass": 1,
+                        "gradeMax": 3,
+                        "gradeMaxValue": 3,
+                        "gradeMin": 0,
+                        "gradeSelf": 3,
+                        "name": "Questions QCM rap"
+                    }
+                ]
+            },
+            {
+                "name": "ED.PHYSIQUE & SPORT.",
+                "numberTests": 2,
+                "averageSelf": 20,
+                "averageClass": 15.39,
+                "averageMax": 20,
+                "averageMin": 9.67,
+                "tests": [
+                    {
+                        "coefficient": 0.5,
+                        "date": "2021-01-12T11:00:00.000Z",
+                        "gradeClass": 8,
+                        "gradeMax": 10,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 5,
+                        "gradeSelf": 10,
+                        "name": "Escalade en Bloc et investissement dans"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-12-15T11:00:00.000Z",
+                        "gradeClass": 15,
+                        "gradeMax": 20,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 9,
+                        "gradeSelf": 20,
+                        "name": "Escalade en cordées"
+                    }
+                ]
+            },
+            {
+                "name": "EDUCATION MUSICALE",
+                "numberTests": 1,
+                "averageSelf": 20,
+                "averageClass": 16.08,
+                "averageMax": 20,
+                "averageMin": 10,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2021-01-08T11:00:00.000Z",
+                        "gradeClass": 16,
+                        "gradeMax": 20,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 10,
+                        "gradeSelf": 20,
+                        "name": "Ecrit Zara + Rech Maison"
+                    }
+                ]
+            },
+            {
+                "name": "FRANCAIS > FRANCAIS",
+                "numberTests": 2,
+                "averageSelf": 13.4,
+                "averageClass": 14.71,
+                "averageMax": 19,
+                "averageMin": 10.2,
+                "tests": [
+                    {
+                        "coefficient": 2,
+                        "date": "2021-01-23T11:00:00.000Z",
+                        "gradeClass": 14,
+                        "gradeMax": 19,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 9,
+                        "gradeSelf": 14,
+                        "name": "DOSSIER AUTOBIOGRAPHIQUE"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-12-14T11:00:00.000Z",
+                        "gradeClass": 7,
+                        "gradeMax": 9,
+                        "gradeMaxValue": 10,
+                        "gradeMin": 5,
+                        "gradeSelf": 5,
+                        "name": "écriture Friot"
+                    }
+                ]
+            },
+            {
+                "name": "HIST GEO EDUC MOR CIV",
+                "numberTests": 1,
+                "averageSelf": 15,
+                "averageClass": 11,
+                "averageMax": 17,
+                "averageMin": 4,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2021-01-18T11:00:00.000Z",
+                        "gradeClass": 11,
+                        "gradeMax": 17,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 4,
+                        "gradeSelf": 15,
+                        "name": "La Seconde Guerre mondiale"
+                    }
+                ]
+            },
+            {
+                "name": "LANGUES CULTURES ETRANGERES > LANGUES CULTURES ETRANGERES",
+                "numberTests": 1,
+                "averageSelf": 19,
+                "averageClass": 15.48,
+                "averageMax": 19.75,
+                "averageMin": 5,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2021-01-25T11:00:00.000Z",
+                        "gradeClass": 15,
+                        "gradeMax": 19,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 5,
+                        "gradeSelf": 19,
+                        "name": "youth for climate"
+                    }
+                ]
+            },
+            {
+                "name": "MATHEMATIQUES",
+                "numberTests": 3,
+                "averageSelf": 19.29,
+                "averageClass": 9.91,
+                "averageMax": 19.29,
+                "averageMin": 1,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2021-01-07T11:00:00.000Z",
+                        "gradeClass": 2,
+                        "gradeMax": 3,
+                        "gradeMaxValue": 3,
+                        "gradeMin": 0,
+                        "gradeSelf": 3,
+                        "name": null
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-12-14T11:00:00.000Z",
+                        "gradeClass": 8,
+                        "gradeMax": 19,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 1,
+                        "gradeSelf": 19,
+                        "name": null
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-27T11:00:00.000Z",
+                        "gradeClass": 3,
+                        "gradeMax": 5,
+                        "gradeMaxValue": 5,
+                        "gradeMin": 0,
+                        "gradeSelf": 5,
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "name": "PHYSIQUE-CHIMIE",
+                "numberTests": 1,
+                "averageSelf": 20,
+                "averageClass": 15.23,
+                "averageMax": 20,
+                "averageMin": 7,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-12-15T11:00:00.000Z",
+                        "gradeClass": 15,
+                        "gradeMax": 20,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 7,
+                        "gradeSelf": 20,
+                        "name": null
+                    }
+                ]
+            },
+            {
+                "name": "SCIENCES VIE & TERRE",
+                "numberTests": 2,
+                "averageSelf": 17.14,
+                "averageClass": 13.29,
+                "averageMax": 17.38,
+                "averageMin": 2.73,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2020-12-14T11:00:00.000Z",
+                        "gradeClass": 12,
+                        "gradeMax": 16,
+                        "gradeMaxValue": 20,
+                        "gradeMin": 2,
+                        "gradeSelf": 16,
+                        "name": "Génétique 2"
+                    },
+                    {
+                        "coefficient": 1,
+                        "date": "2020-11-21T11:00:00.000Z",
+                        "gradeClass": 16,
+                        "gradeMax": 20,
+                        "gradeMaxValue": 22,
+                        "gradeMin": 3,
+                        "gradeSelf": 20,
+                        "name": "Génétique 2"
+                    }
+                ]
+            },
+            {
+                "name": "TECHNOLOGIE",
+                "numberTests": 1,
+                "averageSelf": 20,
+                "averageClass": 16.76,
+                "averageMax": 20,
+                "averageMin": 10,
+                "tests": [
+                    {
+                        "coefficient": 1,
+                        "date": "2021-01-08T11:00:00.000Z",
+                        "gradeClass": 4,
+                        "gradeMax": 5,
+                        "gradeMaxValue": 5,
+                        "gradeMin": 2,
+                        "gradeSelf": 5,
+                        "name": "Mbot_S3"
+                    }
+                ]
+            }
+        ],
+        "averageSelf": 18.38,
+        "averageClass": 13.69
+    }
+]
